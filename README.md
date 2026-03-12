@@ -25,8 +25,6 @@ zepto-sql-analysis/
 
 | File | Source | Rows |
 |------|--------|------|
-| `zepto_v1.xlsx` | Zepto product catalogue v1 | 3,732 |
-| `zepto_v2.csv` | Zepto product catalogue v2 | 3,732 |
 | `zepto_products.csv` | Merged + deduplicated | **3,477** |
 
 ### Columns
